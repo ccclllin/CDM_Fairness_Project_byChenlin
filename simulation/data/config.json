@@ -1,0 +1,12 @@
+{
+  "dataset": "Assist0910",
+  "files": {
+    "q_matrix": "q_matrix.csv",
+    "response": "response.csv"
+  },
+  "info": {
+    "student_num": 2485,
+    "exercise_num": 16818,
+    "knowledge_num": 102
+  }
+}
